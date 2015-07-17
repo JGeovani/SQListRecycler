@@ -1,7 +1,4 @@
 # SQListRecycler
-A basic portrait / landscape RecyclerView backed by a SQLite table.
-
-# SQListRecycler
 
 Demo of Android RecyclerView connected to SQLite using recommended architecture. The demo also shows handling of one-pane / two-pane fragment modes throughout orientation changes. The behaviour is shown on [YouTube - https://youtu.be/lME4ZZI5pBU](https://youtu.be/lME4ZZI5pBU) and you can download, install and run the APK (needs no permissions) to test the concept before you dig into the code. 
 
